@@ -15,4 +15,4 @@ O comando para executar a anotação e avaliação dos anotadores é:
 python connect_models.py
 ```
 
-Para mais informações, contactar: João Paulo Aires (joao.souza91@edu.pucrs.br) e Maurício Magnaguagno (mauricio.magnaguagno@acad.pucrs.br)
+Para mais informações, contactar: [João Paulo Aires](https://github.com/JoaoPauloAires) e [Maurício Magnaguagno](https://github.com/Maumagnaguagno)
